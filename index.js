@@ -1,3 +1,5 @@
+// usage: `cat output.txt | node ./index.js`
+
 const split = require('split')
 const printf = require('printf')
 
